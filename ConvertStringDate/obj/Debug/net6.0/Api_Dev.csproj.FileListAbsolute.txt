@@ -1,0 +1,15 @@
+/home/rvlyra/Documentos/Teste_Ambiente/Api_Dev/bin/Debug/net6.0/Api_Dev
+/home/rvlyra/Documentos/Teste_Ambiente/Api_Dev/bin/Debug/net6.0/Api_Dev.deps.json
+/home/rvlyra/Documentos/Teste_Ambiente/Api_Dev/bin/Debug/net6.0/Api_Dev.runtimeconfig.json
+/home/rvlyra/Documentos/Teste_Ambiente/Api_Dev/bin/Debug/net6.0/Api_Dev.dll
+/home/rvlyra/Documentos/Teste_Ambiente/Api_Dev/bin/Debug/net6.0/Api_Dev.pdb
+/home/rvlyra/Documentos/Teste_Ambiente/Api_Dev/obj/Debug/net6.0/Api_Dev.csproj.AssemblyReference.cache
+/home/rvlyra/Documentos/Teste_Ambiente/Api_Dev/obj/Debug/net6.0/Api_Dev.GeneratedMSBuildEditorConfig.editorconfig
+/home/rvlyra/Documentos/Teste_Ambiente/Api_Dev/obj/Debug/net6.0/Api_Dev.AssemblyInfoInputs.cache
+/home/rvlyra/Documentos/Teste_Ambiente/Api_Dev/obj/Debug/net6.0/Api_Dev.AssemblyInfo.cs
+/home/rvlyra/Documentos/Teste_Ambiente/Api_Dev/obj/Debug/net6.0/Api_Dev.csproj.CoreCompileInputs.cache
+/home/rvlyra/Documentos/Teste_Ambiente/Api_Dev/obj/Debug/net6.0/Api_Dev.dll
+/home/rvlyra/Documentos/Teste_Ambiente/Api_Dev/obj/Debug/net6.0/refint/Api_Dev.dll
+/home/rvlyra/Documentos/Teste_Ambiente/Api_Dev/obj/Debug/net6.0/Api_Dev.pdb
+/home/rvlyra/Documentos/Teste_Ambiente/Api_Dev/obj/Debug/net6.0/Api_Dev.genruntimeconfig.cache
+/home/rvlyra/Documentos/Teste_Ambiente/Api_Dev/obj/Debug/net6.0/ref/Api_Dev.dll
